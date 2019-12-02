@@ -1,2 +1,2 @@
 # rudp
-A reliable UDP protocal.
+A reliable UDP protocol.
